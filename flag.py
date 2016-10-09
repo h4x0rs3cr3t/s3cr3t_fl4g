@@ -2,6 +2,7 @@
 
 # CTF-BR Ranking-Interno
 # Challenge: [Semana 2/10] - Cr4zy_h0rs3 / Creator: jh00nbr_ /  
+# fb.com/JhonVipNet
 
 from PIL import Image
 import random
